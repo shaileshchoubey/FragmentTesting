@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FragmentTesting</string>
+    <string name="title_activity_fragment">FragmentActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Testing this</string>
+
+    <string name="search_title">Enter the contact name</string>
+    <string name="search_hint">Enter the contact name</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_search_results">SearchResultsActivity</string>
+</resources>
